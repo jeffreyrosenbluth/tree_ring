@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(S=/private/tmp/claude-501/-Users-jeffreyrosenbluth-Develop-TS-JS-tree-ring/5c2f78c3-7be4-44ac-b3f4-018121d84d02/scratchpad; $S/shoot.sh $S/full2.png '{WEDGE_COUNT:6,WEDGE_WIDTH:40,WEDGE_DEPTH:1,WEDGE_JAGGEDNESS:1,ALONG_WEIGHT_VARIATION:1.8,RING_WEIGHT_VARIATION:1.5,BARK_THICKNESS:30,BARK_ROUGHNESS:1,BARK_NOTCHES:40}'; $S/shoot.sh $S/full3.png '{WEDGE_COUNT:0,BARK_THICKNESS:0,RING_WEIGHT_VARIATION:0,ALONG_WEIGHT_VARIATION:0}'; cp $S/full1.png $S/crop1.png && sips -c 260 260 --cropOffset 520 300 $S/crop1.png >/dev/null && sips -z 520 520 $S/crop1.png >/dev/null)"
+    ]
+  }
+}
