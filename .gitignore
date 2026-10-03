@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Exported images, if you save them into this folder
+tree-rings-*.png
+tree-rings-*.svg
